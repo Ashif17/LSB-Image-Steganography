@@ -1,4 +1,4 @@
-# 🧠 Steganography-Based File Encoder and Decoder in C
+# 🧠 LSB Image Steganography in C
 
 This project implements a **Steganography-based File Hiding System in C**, which enables users to securely **embed (encode)** and **extract (decode)** secret data within **BMP image files**. The technique uses **Least Significant Bit (LSB)** modification — a common method in digital steganography — to conceal information without noticeably altering the image.
 
